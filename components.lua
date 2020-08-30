@@ -76,7 +76,7 @@ minetest.register_node("elevator:shaft", {
             {-7/16,-8/16,8/16,7/16,8/16,7/16},
         },
     },
-    climbable = true
+    climbable = true,
     collisionbox = {
         type = "fixed",
         fixed = {
